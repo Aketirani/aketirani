@@ -1,5 +1,5 @@
 # 🌍 About Me
-👋 Hi, I am Aria Ketirani<br>👨‍💻 Senior Data Scientist<br>🏠 Living in Denmark
+👋🏽 Hi, I am Aria Ketirani<br>👨🏻‍💻 Senior Data Scientist<br>🏠 Living in Copenhagen, Denmark<br>🇩🇰🇮🇷 My Nationalities
 
 # 💻 Tech Stack
 <p align="left"> <a 
