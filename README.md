@@ -14,12 +14,12 @@ href="https://spark.apache.org/docs/latest/api/python/index.html#" target="_blan
 href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a> <a 
 href="https://cmder.app/" target="_blank" rel="noreferrer"> <img src="https://www.fileeagle.com/data/2017/04/Cmder.jpg" alt="cmder" width="40" height="40"/> </a> </p>
 
-# 📊 Repositories
+# 🔭 Repositories
   <p align="left">
      <a href="https://github.com/Aketirani/AudioMNIST"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aketirani&repo=AudioMNIST&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Aketirani/ANC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aketirani&repo=ANC&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/Aketirani/EmployeeAttrition"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aketirani&repo=EmployeeAttrition&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
-# 💬 GitHub Stats
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aketirani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
