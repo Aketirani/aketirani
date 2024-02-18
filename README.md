@@ -25,4 +25,4 @@ href="https://cmder.app/" target="_blank" rel="noreferrer"> <img src="https://ww
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aketirani&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&include_all_commits=false&count_private=false&layout=compact&card_width=278)
 
 # 🔢 GitHub Activity
-![Aketirani's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aketirani&theme=react-dark&hide_border=true&bg_color=1F222E&color=F8D866&line=F8D866&point=F8D866&area=true)
+[![Aketirani's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aketirani&theme=react-dark&hide_border=true&bg_color=1F222E&color=F8D866&line=F8D866&point=F8D866&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
