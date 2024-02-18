@@ -22,7 +22,15 @@ href="https://cmder.app/" target="_blank" rel="noreferrer"> <img src="https://ww
   </p>
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aketirani&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&include_all_commits=false&count_private=false&layout=compact&card_width=278)
-
-# 🔢 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aketirani&theme=github)
+<div style="display: flex; flex-direction: row;">
+    <div style="flex: 1;">
+        <p align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=Aketirani&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150">
+        </p>
+    </div>
+    <div style="flex: 1;">
+        <p align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aketirani&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&include_all_commits=false&count_private=false&layout=compact&card_width=278" alt="Top Languages" height="150">
+        </p>
+    </div>
+</div>
