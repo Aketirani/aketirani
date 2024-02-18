@@ -23,5 +23,4 @@ href="https://cmder.app/" target="_blank" rel="noreferrer"> <img src="https://ww
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aketirani&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&include_all_commits=false&count_private=false&layout=compact&card_width=278)
-
-[![](https://visitcount.itsvg.in/api?id=Aketirani&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=Aketirani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
