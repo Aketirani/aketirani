@@ -22,4 +22,4 @@ href="https://cmder.app/" target="_blank" rel="noreferrer"> <img src="https://ww
   </p>
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aketirani&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aketirani&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&include_all_commits=false&count_private=false&layout=compact&width=278)
