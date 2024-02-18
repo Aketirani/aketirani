@@ -23,8 +23,3 @@ href="https://cmder.app/" target="_blank" rel="noreferrer"> <img src="https://ww
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aketirani&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&include_all_commits=false&count_private=false&layout=compact&card_width=278)
-
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aketirani&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="278">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aketirani&theme=dark&hide_border=false" alt="GitHub Streak" width="278">
-</p>
