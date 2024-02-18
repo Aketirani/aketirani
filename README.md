@@ -12,7 +12,7 @@ href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="http
 href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a
 href="https://spark.apache.org/docs/latest/api/python/index.html#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/> </a> <a
 href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a> <a 
-href="https://cmder.app/" target="_blank" rel="noreferrer"> <img src="x" alt="cmder" width="40" height="40"/> </a> </p>
+href="https://cmder.app/" target="_blank" rel="noreferrer"> <img src="https://www.fileeagle.com/data/2017/04/Cmder.jpg" alt="cmder" width="40" height="40"/> </a> </p>
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aketirani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
