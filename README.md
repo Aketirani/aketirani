@@ -16,9 +16,9 @@ href="https://cmder.app/" target="_blank" rel="noreferrer"> <img src="https://ww
 
 # 🔭 Repositories
 <p align="left">
-    <a href="https://github.com/Aketirani/AudioMNIST"><img width="278" height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aketirani&repo=AudioMNIST&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Aketirani/ANC"><img width="278" height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aketirani&repo=ANC&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Aketirani/EmployeeAttrition"><img width="278" height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aketirani&repo=EmployeeAttrition&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Aketirani/audio-mnist"><img width="278" height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aketirani&repo=audio-mnistT&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Aketirani/active-noise-cancellation"><img width="278" height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aketirani&repo=active-noise-cancellation&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Aketirani/employee-attrition"><img width="278" height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aketirani&repo=employee-attrition&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
 </p>
 
 # 📊 GitHub Stats
