@@ -21,6 +21,7 @@ href="https://cmder.app/" target="_blank" rel="noreferrer"> <img src="https://ww
     <a href="https://github.com/Aketirani/audio-mnist"><img width="278" height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aketirani&repo=audio-mnist&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Aketirani/employee-attrition"><img width="278" height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aketirani&repo=employee-attrition&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Aketirani/airflow-weather"><img width="278" height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aketirani&repo=airflow-weather&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Aketirani/dashboard-stock"><img width="278" height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aketirani&repo=dashboard-stock&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
 </p>
 
 # 📊 GitHub Stats
