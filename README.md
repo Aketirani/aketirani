@@ -1,11 +1,17 @@
 # 🌍 About Me
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-<div align="center">
-    👋🏽 Hi, I am Aria Ketirani<br>👨🏻‍💻 A Senior Data Scientist<br>🏠 Living in Copenhagen, Denmark
-</div>
+<table align="center">
+  <tr>
+    <td>
+      👋🏽 Hi, I am Aria Ketirani<br>
+      👨🏻‍💻 A Senior Data Scientist<br>
+      🏠 Living in Copenhagen, Denmark
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
+    </td>
+  </tr>
+</table>
 
 ## 💻 Tech Stack
 <div align="center">
