@@ -1,8 +1,9 @@
 # 🌍 About Me
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
+</div>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60">
-
-<div align="left">
+<div align="center">
     👋🏽 Hi, I am Aria Ketirani<br>👨🏻‍💻 A Senior Data Scientist<br>🏠 Living in Copenhagen, Denmark
 </div>
 
