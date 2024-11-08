@@ -1,14 +1,14 @@
 # 🌍 About Me
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <div style="text-align: left; margin-right: 10px;">
+<div align="center">
+  <span style="display: inline-block; text-align: left; vertical-align: middle; margin-right: 10px;">
     👋🏽 Hi, I am Aria Ketirani<br>
     👨🏻‍💻 A Senior Data Scientist<br>
     🏠 Living in Copenhagen, Denmark
-  </div>
-  <div>
+  </span>
+  <span style="display: inline-block; vertical-align: middle;">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
-  </div>
+  </span>
 </div>
 
 ## 💻 Tech Stack
