@@ -1,6 +1,6 @@
 # 🌍 About Me
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" alt="Alt Text" width="200" height="120"/>
+  <img src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" alt="Alt Text" width="300" height="200"/>
 </div>
 
 <div align="center">
