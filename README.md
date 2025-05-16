@@ -24,26 +24,26 @@
     <a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="azure devops" width="40" height="40"/>
     </a>
-    <a href="https://drexel.edu/ais/applications/admin/UC4%20Automic/" target="_blank" rel="noreferrer">
-        <img src="https://static.wikia.nocookie.net/logopedia/images/0/01/Automic_2013.png/" alt="automic" width="40" height="40"/>
+    <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="databricks" width="40" height="40"/>
     </a>
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://miro.medium.com/v2/resize:fit:700/1*G33_0XwMBXPbOoW1Z2Si2w.jpeg" alt="airflow" width="40" height="40"/>
     </a>
-    <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
+    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins" width="40" height="40"/>
     </a>
     <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
+    </a>
+    <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
     </a>
     <a href="https://spark.apache.org/docs/latest/api/python/index.html#" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/>
     </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/>
-    </a>
-    <a href="https://cmder.app/" target="_blank" rel="noreferrer">
-        <img src="https://www.fileeagle.com/data/2017/04/Cmder.jpg" alt="cmder" width="40" height="40"/>
     </a>
 </div>
 
